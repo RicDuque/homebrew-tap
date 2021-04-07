@@ -1,8 +1,9 @@
 class Exittime < Formula
   desc "Calculate the exit time"
   homepage "https://github.com/RicDuque/exittime"
-  url "https://github.com/RicDuque/exittime/archive/0.0.4.tar.gz"
-  sha256 "360f601559a9ae9e6627c47e520777500075b91295e1512cf650d1bfd0f97ff1"
+  url "https://github.com/RicDuque/exittime/archive/refs/tags/0.0.5.tar.gz"
+  sha256 "bb4ec93784fa8169e51d847c62e3ec8c0d4b2d7cf7de9ca7868bd2bb7af9a822"
+
   license ""
 
   def install
